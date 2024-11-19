@@ -1,0 +1,17 @@
+{
+  "name": "vazzleseshop",
+  "version": "1.0.0",
+  "description": "mini eCommerce shop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "author": "jerrysHacktive",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.2",
+    "nodemon": "^3.1.7"
+  }
+}

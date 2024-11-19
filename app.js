@@ -4,6 +4,7 @@ const bodyParser = require('body-parser')
 const morgan = require('morgan')
 const cors = require('cors')
 require('dotenv/config')
+require('./dbConfig')
 const authJwt = require('./helpers/authJwt')
 const errorHandler = require("./helpers/errorHandler")
 
