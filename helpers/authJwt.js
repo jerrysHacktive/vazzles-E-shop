@@ -28,6 +28,7 @@ function authJwt () {
 // function to check if user is an admin
 async function isRevoked(req, payload, done) {
     // if any protected route is called and the user isnt an admin the token would be rejected
+    // you can specify more roles in your app , what is revoked and what is allowed
         if(!payload.isAdmin){
             done(null, true)
         }
