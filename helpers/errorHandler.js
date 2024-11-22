@@ -9,6 +9,11 @@ function errorHandler(err, req, res, next) {
         return res.status(401).json({message:err})
     }
 
-    // defaultcto 500 server error
+    // default set to 500 server error
     return res.status(500).json(err)
+
+    
 }
+
+
+module.exports=errorHandler

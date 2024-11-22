@@ -24,11 +24,11 @@ const PORT = process.env.PORT
 app.use(`${api}/categories`, require('./routers/category'))
 app.use(`${api}/products`, require('./routers/products'))
 app.use(`${api}/users`, require('./routers/users'))
-app.use(`${api}/orders`, require('./routers/orders'))
+//app.use(`${api}/orders`, require('./routers/orders'))
 
 
 //listening to port
 app.listen(process.env.PORT,()=>{
-console.log(`APP IS RUNNING ON PORT${PORT}`);
+console.log(`APP IS RUNNING ON PORT : ${PORT}`);
 
 })

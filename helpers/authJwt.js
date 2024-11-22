@@ -1,6 +1,4 @@
 const expressJwt = require('express-jwt')
-const { product } = require('../models/products')
-const { registerUser, login } = require('../controllers/users')
 
 
 //  protecting the api routes so that no one can use it without authentication

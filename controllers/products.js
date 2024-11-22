@@ -94,9 +94,9 @@ const updateProduct = async (req, res) => {
     }
     //update the product
     const product = await productModel.findByIdAndUpdate(
-      req.params.id,
       {
-        name: req.body.name,
+        name: req.body.name,      req.params.id,
+
         description: req.body.description,
         richDescription: req.body.richDescription,
         Image: req.body.Image,

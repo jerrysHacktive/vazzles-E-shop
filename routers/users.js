@@ -7,7 +7,7 @@ const { getAllUser, registerUser, getOneUser, login ,getUsersCount, deleteUser} 
 router.get('/', getAllUser)
 
 router.post('/register', registerUser)
-l
+
 router.get('/:id',getOneUser)
 
 router.post('/login',login )
