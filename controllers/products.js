@@ -93,10 +93,9 @@ const updateProduct = async (req, res) => {
       return res.status(400).send("invalid product ID");
     }
     //update the product
-    const product = await productModel.findByIdAndUpdate(
+    const product = await productModel.findByIdAndUpdate(req.params.id,
       {
-        name: req.body.name,      req.params.id,
-
+        name: req.body.name,      
         description: req.body.description,
         richDescription: req.body.richDescription,
         Image: req.body.Image,
@@ -174,7 +173,7 @@ const getFeaturedProduct = async (req, res) => {
   try {
     const products = await productModel.find({ isFeatured: true });
     if (!products) {
-      return res.status(500).send({ success: false });
+      return res.status(500).send({ success: false, message:'no product found' });
     }
     return res.status(200).send(products);
   } catch (error) {
@@ -206,7 +205,7 @@ const numberOfFeaturedProducts = async (req, res) => {
 // to filter by category
 const filterByCategory = async (req, res) => {
     try {
-        //localhost:3000/api/v1/products?categories="2447474794ujfkforurf"
+        ///api/v1/products?categories="2447474794ujfkforurf"
         let filter = {}
         if(req.params.categories){
             filter = {category:req.query.categories.split(',')}

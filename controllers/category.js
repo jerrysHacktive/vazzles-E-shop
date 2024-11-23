@@ -68,7 +68,7 @@ const getCategory = async (req, res) => {
 
 //update a category
 
-const updateCategory = async () => {
+const updateCategory = async (req, res) => {
     try {
       const category = await categoryModel.findByIdAndUpdate(
         req.params.id,
