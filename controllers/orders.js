@@ -42,7 +42,7 @@ const totalPrices = await promise.all(orderItemsIdsResolved.map( async(orderItem
   return totalPrice
 }))
 
-// to return the summarryof the total prices of the order
+// to return the sum of the total prices of the order
 const totalPrice = totalPrices.reduce((a,b) => a+b, 0)
 
         // create the orders
