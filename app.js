@@ -1,34 +1,38 @@
-const express = require('express')
-const app = express()
-const bodyParser = require('body-parser')
-const morgan = require('morgan')
-const cors = require('cors')
-require('dotenv/config')
-require('./dbConfig')
-const authJwt = require('./helpers/authJwt')
-const errorHandler = require("./helpers/errorHandler")
+const express = require("express");
+const bodyParser = require("body-parser");
+const cors = require("cors");
+const logger = require("./utils/logger");
+require("dotenv").config();
+require("./config/dbConfig");
+const errorHandler = require("./middleware/errorHandler");
+const categoryRoute = require("./routes/category");
+const productRoute = require("./routes/products");
+const userRoute = require("./routes/users");
+const orderRoute = require("./routes/orders");
+const authRoute = require("./routes/auth");
 
-app.use(cors())
-app.options('*', cors())
+const app = express();
+
+app.use(cors());
+app.options("*", cors());
 
 //middleware
-app.use(morgan('tiny'))
-app.use(bodyParser.json())
-app.use(authJwt)
-app.use(errorHandler)
-const api = process.env.API_URL
-const PORT = process.env.PORT
-
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 // REST API
-app.use(`${api}/categories`, require('./routers/category'))
-app.use(`${api}/products`, require('./routers/products'))
-app.use(`${api}/users`, require('./routers/users'))
-app.use(`${api}/orders`, require('./routers/orders'))
+app.use("/api/v1/categories", categoryRoute);
+app.use("/api/v1/products", productRoute);
+app.use("/api/v1/users", userRoute);
+app.use("/api/v1/orders", orderRoute);
+app.use("/api/v1/auth", authRoute);
 
+// global error handler
+app.use(errorHandler);
+
+const APP_PORT = process.env.APP_PORT;
 
 //listening to port
-app.listen(process.env.PORT,()=>{
-console.log(`APP IS RUNNING ON PORT : ${PORT}`);
-
-})
+app.listen(process.env.APP_PORT, () => {
+  logger.info(`APP IS RUNNING ON PORT : ${APP_PORT}`);
+});

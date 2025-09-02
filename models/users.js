@@ -1,64 +1,66 @@
-const mongoose = require('mongoose')
-
-
+const mongoose = require("mongoose");
+const validator = require("validator");
 
 const userSchema = mongoose.Schema({
-
-    name:{
-        type:String,
-        require:true,
-        trim:true,
-        
+  firstName: {
+    type: String,
+    required: [true, "first name is required"],
+    trim: true,
+  },
+  lastName: {
+    type: String,
+    required: [true, "last name is required"],
+    trim: true,
+  },
+  email: {
+    type: String,
+    required: [true, "your email is required"],
+    lowercase: true,
+    trim: true,
+    unique: [true, "user with this email already exist"],
+    validate: [validator.isEmail, "please provide a valid email"],
+  },
+  password: {
+    type: String,
+    required: function () {
+      // Password is only required for local registration (non-OAuth users)
+      return this.provider === "local";
     },
-    email:{
-            type:String,
-            require:true,
-            toLowerCase:true,
-            unique:[true, "user with this email already exist"]
+    trim: true,
+  },
+  phoneNumber: {
+    type: String,
+    required: function () {
+      // Phone is only required for local registration
+      return this.provider === "local";
     },
-    password:{
-        type:String,
-        require:true,
-        trim:true
-    },
-    phone:{
-        type:String,
-        require:true
-    },
-    isAdmin:{
-        type:Boolean,
-        default:false
-    },
-    street:{
-        type:String,
-        default:''
-    },
-    apartment:{
-        type:String,
-        default:''
-    },
-    zip:{
-        type:String,
-        default:''
-    },
-    city:{
-        type:String,
-        default:''
-    },
-    country:{
-        type:String,
-        default:''
-    }
-
-})
-
+  },
+  isAdmin: {
+    type: Boolean,
+    default: false,
+  },
+  // OAuth specific fields
+  googleId: {
+    type: String,
+    sparse: true, // allows multiple null values but unique non-null values
+  },
+  provider: {
+    type: String,
+    enum: ["local", "google"],
+    default: "local",
+  },
+  isEmailVerified: {
+    type: Boolean,
+    default: false,
+  },
+});
 
 userSchema.virtual("id").get(function () {
-    return this._id.toHexString();
-  });
-  userSchema.set("toJSON", {
-    virtualS: true,
-  });
-  
+  return this._id.toHexString();
+});
 
-exports.users = mongoose.model('users', userSchema)
+userSchema.set("toJSON", {
+  virtuals: true,
+});
+
+module.exports = mongoose.model("User", userSchema);

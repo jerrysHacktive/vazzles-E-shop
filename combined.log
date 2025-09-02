@@ -1,0 +1,134 @@
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T00:54:16.845Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T00:54:17.105Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T00:54:19.518Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T01:57:51.053Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T01:57:51.272Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T01:57:53.590Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T03:13:17.531Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T03:13:17.810Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T03:13:20.352Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T03:34:03.187Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T03:34:03.581Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T03:34:05.935Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T03:34:52.335Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T03:34:52.770Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T03:34:54.755Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T03:38:10.815Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T03:38:11.165Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T03:38:13.280Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T03:39:49.246Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T03:39:49.573Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T03:39:51.976Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T03:43:31.493Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T03:43:31.851Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T03:43:33.926Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T03:47:14.076Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T03:47:14.575Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T03:47:16.722Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T04:02:08.278Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:02:08.574Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:02:08.575Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:02:08.576Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:02:08.576Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:02:08.577Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:02:08.578Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:02:08.578Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:02:08.579Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:02:08.579Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:02:08.580Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T04:02:08.618Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T04:02:10.928Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T04:05:26.246Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:05:26.639Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:05:26.640Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:05:26.641Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:05:26.642Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:05:26.643Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:05:26.643Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:05:26.644Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:05:26.644Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:05:26.646Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:05:26.646Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T04:05:26.677Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T04:05:29.086Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T04:08:04.230Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:08:04.575Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:08:04.576Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:08:04.576Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:08:04.577Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:08:04.577Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:08:04.578Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:08:04.578Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:08:04.578Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:08:04.579Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:08:04.580Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T04:08:04.611Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T04:08:07.019Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T04:10:39.126Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:10:39.498Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:10:39.499Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:10:39.499Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:10:39.500Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:10:39.500Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:10:39.501Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:10:39.501Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:10:39.501Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:10:39.502Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:10:39.503Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T04:10:39.536Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T04:10:41.953Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T04:16:20.138Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:16:20.488Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:16:20.489Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:16:20.489Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:16:20.490Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:16:20.490Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:16:20.491Z"}
+{"level":"info","message":"Auth JWT_SECRET:","timestamp":"2025-09-01T04:16:20.491Z"}
+{"level":"info","message":"Secret length:","timestamp":"2025-09-01T04:16:20.491Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T04:16:20.527Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T04:16:22.746Z"}
+{"level":"info","message":"Starting getAllUser function","timestamp":"2025-09-01T04:16:31.566Z"}
+{"level":"info","message":"User model:","timestamp":"2025-09-01T04:16:31.566Z"}
+{"0":{"__v":0,"_id":"68b5175242a817860bbdf87d","apartment":"flat","city":"lagos","country":"Nigeria","email":"bowoto47@gmail.com","id":"68b5175242a817860bbdf87d","isAdmin":false,"name":"jerry","phone":"07042642921","street":"2,olasoke street,iyanaschool","zip":"10098"},"1":{"__v":0,"_id":"68b5180d42a817860bbdf880","apartment":"flat","city":"lagos","country":"Nigeria","email":"bowoto4@gmail.com","id":"68b5180d42a817860bbdf880","isAdmin":true,"name":"jerry","phone":"07042642921","street":"2,olasoke street,iyanaschool","zip":"10098"},"level":"info","message":"userList result:","timestamp":"2025-09-01T04:16:31.760Z"}
+{"level":"info","message":"userList length:","timestamp":"2025-09-01T04:16:31.765Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T04:27:40.054Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T04:27:40.525Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T04:27:42.930Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T04:46:15.177Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T04:46:15.645Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T04:46:17.744Z"}
+{"level":"error","message":"Unexpected Error: done is not a function","stack":"TypeError: done is not a function\n    at Object.isRevoked (C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\helpers\\authJwt.js:21:12)\n    at C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\node_modules\\express-jwt\\dist\\index.js:150:54\n    at step (C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\node_modules\\express-jwt\\dist\\index.js:33:23)\n    at Object.next (C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\node_modules\\express-jwt\\dist\\index.js:14:53)\n    at fulfilled (C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\node_modules\\express-jwt\\dist\\index.js:5:58)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-09-01T04:47:21.813Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-01T04:50:40.669Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-01T04:50:41.072Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-01T04:50:43.355Z"}
+{"code":"revoked_token","level":"error","message":"JWT Error: The token has been revoked.","status":401,"timestamp":"2025-09-01T04:50:47.023Z"}
+{"code":"revoked_token","level":"error","message":"JWT Error: The token has been revoked.","status":401,"timestamp":"2025-09-01T05:03:19.699Z"}
+{"code":"revoked_token","level":"error","message":"JWT Error: The token has been revoked.","status":401,"timestamp":"2025-09-01T05:03:22.256Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-02T01:25:06.954Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-02T01:25:07.457Z"}
+{"cause":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"ac-fqzs1oh-shard-00-00.2redpow.mongodb.net:27017":{"$clusterTime":null,"address":"ac-fqzs1oh-shard-00-00.2redpow.mongodb.net:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":7835984,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"},"ac-fqzs1oh-shard-00-01.2redpow.mongodb.net:27017":{"$clusterTime":null,"address":"ac-fqzs1oh-shard-00-01.2redpow.mongodb.net:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":7835998,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"},"ac-fqzs1oh-shard-00-02.2redpow.mongodb.net:27017":{"$clusterTime":null,"address":"ac-fqzs1oh-shard-00-02.2redpow.mongodb.net:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":7835997,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":"atlas-7cc2as-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"errorLabelSet":{},"level":"error","message":"error connecting to database Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"ac-fqzs1oh-shard-00-00.2redpow.mongodb.net:27017":{"$clusterTime":null,"address":"ac-fqzs1oh-shard-00-00.2redpow.mongodb.net:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":7835984,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"},"ac-fqzs1oh-shard-00-01.2redpow.mongodb.net:27017":{"$clusterTime":null,"address":"ac-fqzs1oh-shard-00-01.2redpow.mongodb.net:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":7835998,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"},"ac-fqzs1oh-shard-00-02.2redpow.mongodb.net:27017":{"$clusterTime":null,"address":"ac-fqzs1oh-shard-00-02.2redpow.mongodb.net:27017","arbiters":[],"electionId":null,"error":{"beforeHandshake":false,"errorLabelSet":{}},"hosts":[],"iscryptd":false,"lastUpdateTime":7835997,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":"atlas-7cc2as-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\node_modules\\mongoose\\lib\\connection.js:1165:11)\n    at NativeConnection.openUri (C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\node_modules\\mongoose\\lib\\connection.js:1096:11)","timestamp":"2025-09-02T01:25:39.649Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-02T01:33:35.378Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-02T01:33:35.853Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-02T01:33:39.932Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-02T02:12:04.536Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-02T02:12:04.993Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-02T02:12:08.981Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-02T02:49:31.971Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-02T02:49:32.754Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-02T02:49:36.840Z"}
+{"level":"error","message":"Unexpected Error: Expected double-quoted property name in JSON at position 78 (line 4 column 1)","stack":"SyntaxError: Expected double-quoted property name in JSON at position 78 (line 4 column 1)\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)\n    at invokeCallback (C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:524:28)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","timestamp":"2025-09-02T02:56:04.693Z"}
+{"level":"error","message":"Unexpected Error: Expected double-quoted property name in JSON at position 72 (line 4 column 1)","stack":"SyntaxError: Expected double-quoted property name in JSON at position 72 (line 4 column 1)\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:211:14)\n    at invokeCallback (C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\Akande Michael\\Desktop\\vazzles-E-shop\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:524:28)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)","timestamp":"2025-09-02T02:56:20.832Z"}
+{"code":"revoked_token","level":"error","message":"JWT Error: The token has been revoked.","status":401,"timestamp":"2025-09-02T02:57:26.795Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-02T02:59:58.093Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-02T02:59:58.826Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-02T03:00:01.192Z"}
+{"code":"revoked_token","level":"error","message":"JWT Error: The token has been revoked.","status":401,"timestamp":"2025-09-02T03:00:09.492Z"}
+{"code":"credentials_required","level":"error","message":"JWT Error: No authorization token was found","status":401,"timestamp":"2025-09-02T03:02:13.611Z"}
+{"level":"info","message":"MONGO_URL:","timestamp":"2025-09-02T03:03:51.446Z"}
+{"level":"info","message":"APP IS RUNNING ON PORT : 8000","timestamp":"2025-09-02T03:03:52.024Z"}
+{"level":"info","message":"connected to database","timestamp":"2025-09-02T03:03:56.269Z"}
+{"level":"info","message":"Starting getAllUser function","timestamp":"2025-09-02T03:04:00.135Z"}
+{"level":"info","message":"User model:","timestamp":"2025-09-02T03:04:00.137Z"}
+{"0":{"__v":0,"_id":"68b528c2c9831027fabf28f7","apartment":"flat","city":"lagos","country":"Nigeria","email":"bowoto4@gmail.com","id":"68b528c2c9831027fabf28f7","isAdmin":true,"isEmailVerified":false,"name":"jerry","phone":"07042642921","provider":"local","street":"2,olasoke street,iyanaschool","zip":"10098"},"1":{"__v":0,"_id":"68b65c799563e16434c1a497","email":"john.doe@example.com","firstName":"John","id":"68b65c799563e16434c1a497","isAdmin":false,"isEmailVerified":false,"lastName":"Doe","phoneNumber":"1234567890","provider":"local"},"2":{"__v":0,"_id":"68b65c9f9563e16434c1a499","email":"john.doe1@example.com","firstName":"John","id":"68b65c9f9563e16434c1a499","isAdmin":true,"isEmailVerified":false,"lastName":"Doe","phoneNumber":"1234567890","provider":"local"},"level":"info","message":"userList result:","timestamp":"2025-09-02T03:04:00.321Z"}
+{"level":"info","message":"userList length:","timestamp":"2025-09-02T03:04:00.326Z"}
